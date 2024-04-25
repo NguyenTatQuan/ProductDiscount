@@ -7,7 +7,7 @@
   <title>Product Discount Calculator</title>
 </head>
 <body>
-<h1>Product Discount Calculator</h1>
+<h1>Giamr giá sản phẩm </h1>
 <form action="discount" method="post">
   <label for="productDesc">Mô tả sản phẩm:</label><br>
   <input type="text" id="productDesc" name="productDesc"><br>
